@@ -8,33 +8,33 @@ webpage: Click
 ## My interest in IT
 Interest in IT developed few years ago due to my brother and other family members being in IT, but I did not learn further than required. It was a general curiosity to know some basic programming and other aspects of IT. I was accepted into RMIT to learn introductory programming though I am not progressing well to the extent I'd like to. I expect to learn new concepts and developments in this field.
 
-![image](DreamJob.png)
 ## My Ideal Job
+![image](DreamJob.png)
 This position is vast and varied dealing with Infrastructure, Networks, Communications, End User Computing and Service Delivery which falls under the Cloud Services Platform. This role also ensures customers are the no 1 priority and are valued following ethical principles. The role requires more than 5 -10 years experience in customer base as well as technical experience in a professional services environment – Networking and Windows Servers.
 
 Key Accountabilities:
-•	Support Networking Systems – WAN, LAN, Wireless, VPN and Firewalls
-•	Deploy and support Windows environments from 7 to 10 as well as Windows Servers 2008 to 2019.
-•	Manage Virtualised Machines in Hyper-V, VMWare and Azure VM Services
-•	Support Server roles IIS, AD, Azure AD Connect, Group Policy, Remote Desktop, Remote Access VPN, FTP, etc
-•	Support MS Office 365 & Exchange email, MFA, Security & Compliance Centre, and Intune
-•	Understands Windows Profiles and how Local Machine and User Registry Hives work.
-•	Support AV Software– Webroot & Backup Solutions - VEEAM & Zettagrid
-•	Support Storage Solutions – OneDrive, SharePoint, Dropbox and Google Cloud Storage
+-	Support Networking Systems – WAN, LAN, Wireless, VPN and Firewalls
+-	Deploy and support Windows environments from 7 to 10 as well as Windows Servers 2008 to 2019.
+-	Manage Virtualised Machines in Hyper-V, VMWare and Azure VM Services
+-	Support Server roles IIS, AD, Azure AD Connect, Group Policy, Remote Desktop, Remote Access VPN, FTP, etc
+-	Support MS Office 365 & Exchange email, MFA, Security & Compliance Centre, and Intune
+-	Understands Windows Profiles and how Local Machine and User Registry Hives work.
+-	Support AV Software– Webroot & Backup Solutions - VEEAM & Zettagrid
+-	Support Storage Solutions – OneDrive, SharePoint, Dropbox and Google Cloud Storage
 
 
 Critical skills and experience
-•	At least 5-10 years' experience in customer service and extensive technical experience in a professional services environment – Networking and Windows Servers
-•	Experience using key vendor technologies (Microsoft, Cisco, VMware, IBM, HP, Veeam)
-•	Experience with Unifi, Cisco (Umbrella & ASA) and Meraki Networking Equipment.
-•	Experience with O365 and Azure administration
-•	Experience in supporting infrastructure, network, communication, end user computing and help desk environment
+-	At least 5-10 years' experience in customer service and extensive technical experience in a professional services environment – Networking and Windows Servers
+-	Experience using key vendor technologies (Microsoft, Cisco, VMware, IBM, HP, Veeam)
+-	Experience with Unifi, Cisco (Umbrella & ASA) and Meraki Networking Equipment.
+-	Experience with O365 and Azure administration
+-	Experience in supporting infrastructure, network, communication, end user computing and help desk environment
 
 
 Desirable skills stated
-•	Recognised qualifications in systems/ networking (i.e. Cisco CCNP, Microsoft, Azure)
-•	ITIL qualifications/practical experience with service desk or service management.
-•	A background in the financial services industry and practical experience working as part of a high-performing ITSM environment would be a strong advantage.
+-	Recognised qualifications in systems/ networking (i.e. Cisco CCNP, Microsoft, Azure)
+-	ITIL qualifications/practical experience with service desk or service management.
+-	A background in the financial services industry and practical experience working as part of a high-performing ITSM environment would be a strong advantage.
 
 ## Personal Profile
 
