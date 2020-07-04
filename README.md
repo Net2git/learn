@@ -1,7 +1,6 @@
 # Welcome to Nisha's home page
 
 ## About Me
-
 e-mail: nisha.natarajan2@gmail.com
 student no: nnnn
 webpage: Click
